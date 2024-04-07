@@ -1,0 +1,13 @@
+{
+  "name": "task-26",
+  "version": "1.0.0",
+  "description": "Alien Colors #2: Choose a color for an alien as you did in Exercise 25, and write an if-else chain.",
+  "main": "index.js",
+  "type":"module",
+  "bin":"index,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
